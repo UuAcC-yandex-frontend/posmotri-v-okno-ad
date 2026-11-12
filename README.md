@@ -1,1 +1,1 @@
-https://github.com/UuAcC-yandex-frontend/posmotri-v-okno-ad
+https://github.com/UuAcC-yandex-frontend/posmotri-v-okno-ad 
